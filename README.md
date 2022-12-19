@@ -1,12 +1,11 @@
-# HQ-Audio
-## Formats: MP3, M4A, ALAC, FLAC, WAV
+# High Quality Audio
+## Encoding & Transcoding Audio Files
 <sub>This guide was written with the intent of use on a Linux distro, if you have questions, contact me.</sub>
 
 **Step #1:**<br>
 **Install or compile the required dependencies and packages.**<br>
 `sudo apt-get -y install ffmpeg` <br>
 `sudo apt-get -y install lame` <br>
-`sudo apt-get -y install mp4v2-utils` <br>
 `sudo apt-get update` <br>
 
 **Step #2:**<br>
